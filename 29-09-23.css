@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Gemstones', cursive;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(186, 230, 222);
+}
+
+.pictures {
+    height: 95px;
+    width: 95px;
+}
+
+.pictures img {
+    margin-top: 30px;
+    border: 1px solid black;
+    border-radius: 13px;
+    pointer-events: visiblePainted;
+}
+
+.pictures img:hover {
+    border-color: tomato;
+    transform: scale(1px);
+}
+
+.hlo {
+    margin-top: -55px;
+    margin-left: 150px;
+}
+
+.image {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.hlo1{
+    margin-left: 730px; 
+    margin-top: -575px;
+}
+.third{
+    padding-left: 350px;
+   margin-top: -35px;
+}
+.fifth{
+    float: left;
+}
+.color1{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    background-color: darkslategray;
+    float:left;
+}
+.colorhover:hover{
+    border:4px solid tomato;
+}
+.color2{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    background-color: rgb(210, 30, 30) !important;
+    float:left;
+    margin-left: 10px;
+}
+.color3{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: black;
+    float:left;
+}
+.color4{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: blueviolet;
+    float:left;
+}
+.color5{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: greenyellow;
+    float:left;
+}
+.color6{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: green;
+    float:left;
+}
+.color7{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: rgb(217, 217, 99);
+    float:left;
+}
+.color8{
+    width:35px;
+    height:35px;
+    border-radius: 50px;
+    margin-left:10px;
+    background-color: darkred;
+    float:left;
+}
+.btnbox1{
+    margin-top: 15px;
+}
+.btnbox2{
+    margin-top: 10px;
+}
+.btn1{
+    width:100px;
+    height:40px;
+}
+.btn2{
+    width:100px;
+    height:40px;
+}
+.btn3{
+    width:100px;
+    height:40px;
+}
+.btn4{
+    width:100px;
+    height:40px;
+}
+.btn5{
+    width:100px;
+    height:40px;
+}
+.btn6{
+    width:100px;
+    height:40px;
+}
+.btn7{
+    height: 55px;
+    width:310px;
+    margin-top: 25px;
+    background-color: rgb(255, 128, 17);
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.icon{
+   margin-left: 260px;
+    margin-top: -18px;
+}
+.hr{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
